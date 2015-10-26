@@ -8,13 +8,14 @@ Bharat Parmar
 1.0
 
 # File Structure :
-1) example.php  : Example Script file to export the Database
-2) download.php : Download Database File Script
+1) example.php  : Example Script file to export the Database.
+
+2) download.php : Download Database File Script.
+
 3) DBExport.class.php : Class file which includes all the methods to Export the MySQL Database and Download the File. Require to set the database details here.
 
 # Requirements : 
 1) PHP Version : 3.0 and above
-
 
 # Script Details :
 
